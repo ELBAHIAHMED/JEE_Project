@@ -23,4 +23,4 @@
 ***
 
 # À faire
-## Maquettes des interfaces graphiques : [balsamiq](balsamiq.com) 
+## Maquettes des interfaces graphiques : [balsamiq](balsamiq.cloud) 
