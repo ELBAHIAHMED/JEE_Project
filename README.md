@@ -23,4 +23,4 @@
 ***
 
 # À faire
-## Maquettes des interfaces graphiques : [balsamiq](balsamiq.cloud) 
+## Maquettes des interfaces graphiques : [balsamiq or adobe XD](balsamiq.cloud) 
